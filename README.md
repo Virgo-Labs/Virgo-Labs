@@ -19,7 +19,7 @@ Features:
 - Data Privacy: Blockchain ensures secure, user-controlled data usage.
 - Community Governance: Decentralized voting on project direction and AI updates.
 
- [Explor Spica](https://github.com/virgolabs-crypto/Spica).
+ [Explor Spica](https://github.com/virgo-labs/Spica).
 
 ### [Porrima - Incorporating Deepseek with Blockchain)  
 Connecting Deepseek with Blockchain technology. Offering Jupiter and Radiyum integrations. 
@@ -31,7 +31,7 @@ Key features:
 - Wallet Management: Allow users to connect their wallets and manage assets.
 - Chatbot Interface: A command-line chatbot to interact with the user.
 
- [Explor Porrima](https://github.com/virgolabs-crypto/Porrima).
+ [Explor Porrima](https://github.com/virgo-lab/Porrima).
 
 ---
 
