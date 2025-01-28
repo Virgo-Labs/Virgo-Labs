@@ -31,7 +31,7 @@ Key features:
 - Wallet Management: Allow users to connect their wallets and manage assets.
 - Chatbot Interface: A command-line chatbot to interact with the user.
 
- [Explor Porrima](https://github.com/virgo-lab/Porrima).
+ [Explor Porrima](https://github.com/Virgo-Labs/Porrima).
 
 ---
 
